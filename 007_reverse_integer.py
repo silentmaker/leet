@@ -12,7 +12,7 @@ class Solution(object):
 
             result = signed * int(string)
             
-            if result >  2147483647 or result < -2147483648:
+            if result > 2147483647 or result < -2147483648:
                 return 0
             else:
                 return result
