@@ -1,2 +1,3 @@
-# leet
-leetcode algorithm problem solution in python, for the practice of both algorithm and python
+# LEET
+Solutions to the problems on leetcode (algorithm section).
+For the practice of both algorithm and python.
