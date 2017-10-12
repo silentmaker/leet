@@ -1,3 +1,5 @@
+![leetcode](./LeetCode.png)
 # LEET
-Solutions to the problems on leetcode (algorithm section).
-For the practice of both algorithm and python.
+
+This Repository is for recording my submissions on LeetCode problems (catagory: Algorithm).
+As a practice of both algorithm and python language.
