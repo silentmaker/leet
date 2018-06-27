@@ -1,6 +1,6 @@
 class Solution:
     def twoSum(self, nums, target):
-		buff = {}
+        buff = {}
         
         for i in range(len(nums)):
             if nums[i] in buff:
